@@ -1,0 +1,26 @@
+{
+  "name": "eosjs-simple-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "dependencies": {
+    "eosjs": "^20.0.0",
+    "node-fetch": "^2.6.0",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimHyeongMin/eosjs-simple-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimHyeongMin/eosjs-simple-project/issues"
+  },
+  "homepage": "https://github.com/LimHyeongMin/eosjs-simple-project#readme"
+}
